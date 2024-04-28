@@ -1,5 +1,5 @@
 <template>
   <div>
-    <NuxtWelcome />
+   Malidu
   </div>
 </template>
